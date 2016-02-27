@@ -1,7 +1,7 @@
 react-chartjs
 ============
 
-rich interactive react charting components using [chart.js](http://www.chartjs.org/) including
+rich interactive react charting components using [chart.js](http://www.chartjs.org/) including. This fork supports chart.js version 2.
 
 * Line chart
 * Bar chart
